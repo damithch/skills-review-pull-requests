@@ -36,7 +36,7 @@ Now that you have explored the different ways you can review a pull request it i
 1. After the comment form appears, click the **Add a suggestion** button. <br>
    ![add-a-suggestion-button](https://user-images.githubusercontent.com/97056108/184449714-61e8ee51-824a-48c1-9436-2dfd67f2c070.png)
 1. Edit the suggestion.
-1. Click **Add a single comment**.
+1. Click **Add a single comment**. This is a good practice.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 <footer>
